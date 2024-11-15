@@ -1,4 +1,4 @@
-## How to run
+## Setting up API Keys
 
 This project requires API keys for OpenAI and Tavily to function. Follow the steps below to set up your environment.
 
@@ -16,4 +16,9 @@ This project requires API keys for OpenAI and Tavily to function. Follow the ste
 
 Open the `agent.py` file in your preferred code editor.
 Locate the section where the environment variables are defined.
-Replace the placeholders with your actual API keys.
+Replace the placeholders with your actual API keys.  
+
+## Running the Streamlit Demo App
+1. Change to the directory of the folder
+2. Ensure your virtual environment is activated
+3. Run `python -m streamlit run app.py` in the terminal
