@@ -1,0 +1,4 @@
+Please find the docker files in the link below:
+https://drive.google.com/drive/folders/1i-bJM3qT-W6Slf4lo10aOOir15ghRt6Z?usp=sharing
+
+Please refer to deployment in Wiki regarding how to run Docker. (https://github.com/choy-qi-hui/dsa3101-group2/wiki/Deployment) 
