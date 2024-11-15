@@ -9,7 +9,7 @@ This project requires API keys for OpenAI and Tavily to function. Follow the ste
 - Create a new API key and copy it. This will require you to have credits available in your account.
 
 2. Tavily API Key
--  VisGo to the the [Tavily website](https://tavily.com/).
+-  Go to the the [Tavily website](https://tavily.com/).
 - Log in or create an account.
 - Navigate to the API Access or Developer Settings section.
 - Generate a new API key and copy it. 
