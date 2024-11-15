@@ -7,8 +7,13 @@ This project requires API keys for OpenAI and Tavily to function. Follow the ste
 - Log in or sign up for an account.
 - Navigate to the API Keys section under your account settings.
 - Create a new API key and copy it. This will require you to have credits available in your account.
+
 2. Tavily API Key
 -  VisGo to the the [Tavily website](https://tavily.com/).
 - Log in or create an account.
 - Navigate to the API Access or Developer Settings section.
 - Generate a new API key and copy it. 
+
+Open the `agent.py` file in your preferred code editor.
+Locate the section where the environment variables are defined.
+Replace the placeholders with your actual API keys.
